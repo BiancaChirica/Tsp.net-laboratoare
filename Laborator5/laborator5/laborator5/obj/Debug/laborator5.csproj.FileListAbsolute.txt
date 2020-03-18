@@ -1,0 +1,11 @@
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\laborator5.exe.config
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\laborator5.exe
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\laborator5.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\EntityFramework.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\EntityFramework.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\obj\Debug\laborator5.csprojAssemblyReference.cache
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\obj\Debug\laborator5.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\obj\Debug\laborator5.exe
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator5\laborator5\laborator5\obj\Debug\laborator5.pdb
