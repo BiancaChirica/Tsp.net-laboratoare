@@ -1,0 +1,6 @@
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\bin\Debug\laborator1.exe.config
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\bin\Debug\laborator1.exe
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\bin\Debug\laborator1.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\obj\Debug\laborator1.exe
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\obj\Debug\laborator1.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator1\laborator1\obj\Debug\laborator1.csprojAssemblyReference.cache

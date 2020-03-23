@@ -1,0 +1,10 @@
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.deps.json
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfoInputs.cache
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfo.cs
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.json
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.dev.json
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\laborator4\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.csprojAssemblyReference.cache
