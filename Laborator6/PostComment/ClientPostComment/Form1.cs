@@ -32,6 +32,7 @@ namespace ClientPostComment
             PostComment.Post[] p = pc.GetPosts();
             return p;
         }
+
         // Handler pentru evenimentul CellMouseClick din DatagridView numit dgp
         private void dgp_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {

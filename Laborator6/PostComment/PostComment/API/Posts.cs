@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Data.Entity;
+using System;
+
 namespace PostComment
 {
     public partial class Post
@@ -56,8 +58,10 @@ namespace PostComment
         {
             using (ModelPostCommentContainer ctx = new ModelPostCommentContainer())
             {
-                return ctx.Posts.Include("Comments").ToList<Post>();
-                // Obligatoriu de verificat in apelant rezultatul primit.
+               
+                    return ctx.Posts.Include("Comments").ToList<Post>();
+                    // Obligatoriu de verificat in apelant rezultatul primit.
+       
             }
         }
     }

@@ -9,3 +9,14 @@ C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator6\PostComment\PostComment\obj\D
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator6\PostComment\PostComment\obj\Debug\PostComment.csproj.CopyComplete
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator6\PostComment\PostComment\obj\Debug\PostComment.dll
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator6\PostComment\PostComment\obj\Debug\PostComment.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\PostComment.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\PostComment.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\obj\Debug\PostComment.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\tsp.net-git\Tsp.net-laboratoare\Laborator6\PostComment\PostComment\obj\Debug\PostComment.pdb
