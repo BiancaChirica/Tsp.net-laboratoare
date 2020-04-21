@@ -1,0 +1,11 @@
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\MyPhotos.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\MyPhotos.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\MyPhotos.dll.config
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\ObjectWCF\obj\Debug\ObjectWCF.pdb

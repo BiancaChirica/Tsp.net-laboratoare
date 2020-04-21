@@ -1,0 +1,8 @@
+	Subsemnatul Chirica Demetra Bianca declar pe propria raspundere ca acest cod nu a fost copiat din Internet sau din
+alte surse. Pentru documentare am folosit urmatoarele surse:
+- link-uri: https://profs.info.uaic.ro/~iasimin/
+
+	In aceasta etapa am facut un proiect Class Library si l-am denumit ObjectWCF.
+Acesta contine doua fisiere importante : declararea interfetelor ( InterfaceWCF.cs) si implementarea metodelor din acestea (PhotoProperty.cs).
+In primul fisier sunt declarate trei interfete cu adnotarile specifice (una pentru poze, pentru proprietati si una care le mosteneste pe cele doua).
+In al doilea se implementeaza metodele, prin apelarea metodelor declarate in api.

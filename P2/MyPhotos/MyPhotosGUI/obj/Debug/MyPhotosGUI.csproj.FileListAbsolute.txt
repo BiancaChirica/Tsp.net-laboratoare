@@ -56,3 +56,14 @@ C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\obj\Debug\MyPhot
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\obj\Debug\MyPhotosGUI.csproj.CopyComplete
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\obj\Debug\MyPhotosGUI.exe
 C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\obj\Debug\MyPhotosGUI.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Elasticsearch.Net.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Nest.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\System.Buffers.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Elasticsearch.Net.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Nest.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\Nest.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\System.Buffers.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\P2\MyPhotos\MyPhotosGUI\obj\Debug\MyPhotosGUI.EditProp.resources
