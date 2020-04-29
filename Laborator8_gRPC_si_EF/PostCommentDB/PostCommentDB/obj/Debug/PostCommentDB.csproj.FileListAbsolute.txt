@@ -1,0 +1,10 @@
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\PostCommentDB.dll.config
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\PostCommentDB.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\PostCommentDB.pdb
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\EntityFramework.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\EntityFramework.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\obj\Debug\PostCommentDB.csproj.CopyComplete
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\obj\Debug\PostCommentDB.dll
+C:\Users\bianc\OneDrive\Desktop\TSP.Net\Laborator8_gRPC_si_EF\PostCommentDB\PostCommentDB\obj\Debug\PostCommentDB.pdb

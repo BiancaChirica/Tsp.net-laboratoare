@@ -1,0 +1,42 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+
+// The greeting service definition.
+service PostG {
+  // Sends a greeting
+  //rpc AddPost (PostModel) returns (PostReplayBool);
+  rpc GetAllPosts(EmptyMsg) returns (PostsList);
+}
+
+message EmptyMsg{
+}
+
+message PostModel {
+        int32 postId =1;
+        string description = 2;
+         string domain = 3 ;
+        string date = 4; 
+        CommentsList comments = 5;
+}
+message CommentsList{
+     repeated CommentModel coments = 1; 
+}
+
+message PostsList{
+     repeated PostModel posts = 1; 
+}
+
+message CommentModel{
+        int32 CommentId =1;
+         string Text = 2;
+         int32 PostPostId = 3; 
+         PostModel Post = 4;
+
+}
+
+// The response message containing the greetings.
+message PostReplayBool {
+  bool result = 1;
+}
