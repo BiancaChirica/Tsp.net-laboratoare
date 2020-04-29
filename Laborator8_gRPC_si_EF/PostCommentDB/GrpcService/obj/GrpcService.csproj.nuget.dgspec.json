@@ -48,6 +48,10 @@
             "Grpc.AspNetCore": {
               "target": "Package",
               "version": "[2.24.0, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

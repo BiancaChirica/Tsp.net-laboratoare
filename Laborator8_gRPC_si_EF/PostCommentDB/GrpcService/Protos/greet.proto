@@ -6,11 +6,18 @@ option csharp_namespace = "GrpcService";
 // The greeting service definition.
 service PostG {
   // Sends a greeting
-  //rpc AddPost (PostModel) returns (PostReplayBool);
+  rpc AddPost (PostModel) returns (PostReplayBool);
   rpc GetAllPosts(EmptyMsg) returns (PostsList);
+  rpc UpdatePost(PostModel) returns (PostModel);
+  rpc DeletePost(PostInt) returns (PostInt);
+  rpc GetPostById (PostInt) returns (PostModel);
 }
 
 message EmptyMsg{
+}
+
+message PostInt{
+      int32 id =1;
 }
 
 message PostModel {
