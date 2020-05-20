@@ -1,0 +1,41 @@
+﻿@page
+@model WebAppClient.Pages.Proprietati.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+<h3>List Prop for: @ViewData["Photo"]</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Proprietati[0].ProprietateId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proprietati[0].NumeProprietate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proprietati[0].ValoareProprietate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Proprietati)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProprietateId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeProprietate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValoareProprietate)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-page="/Photos/Index">Back to List</a>
+</div>
+

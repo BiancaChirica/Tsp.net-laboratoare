@@ -1,0 +1,87 @@
+﻿@page
+@model WebAppClient.Pages.Photos.IndexModel
+@{
+ ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+
+
+
+<form>
+    <p>
+        <select asp-for="PhotoProp" asp-items="Model.ProprietatiList">
+            <option value="">All</option>
+        </select>
+        Cauta dupa valoarea proprietatii: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<h3>Imagini gasite: @ViewData["PhotoFound"]</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].PhotoId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Path)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Data_creare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Descriere)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Deleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Proprietates)
+            </th>
+            <th>
+                Nume proprietate cautata
+            </th>
+            <th>
+                Valoare proprietate cautata
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Photos)
+ {
+        <tr style="font-size:small">
+            <td>
+                @Html.DisplayFor(modelItem => item.PhotoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Path)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data_creare)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descriere)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Proprietates.Count)
+            </td>
+            <td>
+                @Model.PhotoProp
+            </td>
+            <td>
+                @Model.SearchString
+            </td>
+            <td>
+                <a asp-page="/Proprietati/List" asp-route-id="@item.PhotoId">Details</a>
+            </td>
+        </tr>
+ }
+    </tbody>
+</table>
+
+
